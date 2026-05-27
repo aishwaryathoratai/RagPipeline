@@ -1,0 +1,13 @@
+langchain
+groq
+langgraph
+faiss-cpu
+sentence-transformers
+fastapi
+uvicorn
+pypdf
+rank-bm25
+python-dotenv
+tiktoken
+langchain_community
+langchain_openai

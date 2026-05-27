@@ -8,6 +8,8 @@ client = InferenceClient(
     api_key=API_KEY,
 )
 
+kk
+
 embeddings = client.feature_extraction(
     text="Hello world",
     model="sentence-transformers/all-MiniLM-L6-v2"
